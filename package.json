@@ -37,7 +37,7 @@
     "highlight.js": "^11.8.0",
     "html-to-image": "^1.11.11",
     "katex": "^0.16.7",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "markdown-it-highlightjs": "^4.0.1",
     "markdown-it-katex": "^2.0.3",
     "markdown-it-kbd": "^2.2.2",
